@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garaadso
 - 👀 I’m interested in Full stack web development (HTML,CSS, JAVASCRIPT and RUBY)
-- 🌱 I’m currently learning on HTML and CSS. 
+- 🌱 I’m currently learning HTML and CSS. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
